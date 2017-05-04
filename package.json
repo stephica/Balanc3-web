@@ -1,14 +1,13 @@
 {
-  "name": "Balanc3-web",
+  "name": "balanc3-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "react-redux": "^5.0.4"
+    "react-dom": "^15.5.4"
   },
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "balanc3": "0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
